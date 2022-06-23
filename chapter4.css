@@ -1,0 +1,41 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.box1 {
+  width: 100%;
+  height: 50px;
+  background-color: red;
+}
+
+.box2 {
+  width: 100%;
+  height: 500px;
+  background-color: orange;
+}
+
+.box3 {
+  display: flex;
+  justify-content: center;
+}
+
+.left {
+  width: 230px;
+  height: 1400px;
+  background-color: #00ff00;
+}
+
+.center {
+  width: 500px;
+  height: 1400px;
+  background-color: green;
+}
+
+.right {
+  width: 230px;
+  height: 1400px;
+  background-color: #00ff00;
+}
+
